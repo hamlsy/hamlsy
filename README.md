@@ -1,7 +1,7 @@
 ## Hi 👋, Im SeungYoung Lee
 ### A passionate backend developer from South Korea
 
-- 🔭 I’m currently working on [Moon-Spoon](https://www.moonspoon.site) ([repo](https://github.com/hamlsy/Moon-Spoon))
+- 🔭 I’m currently working on [Moon-Spoon](http://www.moonspoon.site) ([repo](https://github.com/hamlsy/Moon-Spoon))
 
 - 🌱 I’m currently learning **Java, Spring Boot, JPA**
 

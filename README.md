@@ -1,7 +1,7 @@
 ## Hi, Im SeungYoung Lee
 ### A passionate backend developer from South Korea
 
-- I’m currently working on [KoSpot]() ([repo - frontend](https://github.com/hamlsy/KoSpot-frontend), [repo - frontend](https://github.com/hamlsy/KoSpot-backend))
+- I’m currently working on [KoSpot]() ([repo - frontend](https://github.com/hamlsy/KoSpot-frontend), [repo - backend](https://github.com/hamlsy/KoSpot-backend))
 
 - I’m currently learning **Java, Spring Boot, JPA**
 

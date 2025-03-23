@@ -1,5 +1,5 @@
-## Hi, Im SeungYoung Lee
-### A passionate backend developer from South Korea
+## SeungYoung Lee
+### backend developer from South Korea
 
 - I’m currently working on [KoSpot]() ([repo - frontend](https://github.com/hamlsy/KoSpot-frontend), [repo - backend](https://github.com/hamlsy/KoSpot-backend))
 

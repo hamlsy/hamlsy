@@ -1,7 +1,7 @@
 ### SeungYoung Lee
 - Currently working on 
   - [KoSpot]() ([repo - frontend](https://github.com/hamlsy/KoSpot-frontend), [repo - backend](https://github.com/hamlsy/KoSpot-backend))
-  - [GSJS] ([repo - backend](https://github.com/HMK-dev/GSJS-backend))
+  - [EchoShotX]() ([repo - backend](https://github.com/EchoShotX/EchoShotX-backend-DDD)
 
 - How to reach me **dltmddud1122@naver.com**
 
